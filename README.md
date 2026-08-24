@@ -10,4 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2652-sum-multiples](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2652-sum-multiples) |
+## Array
+|  |
+| ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+## String
+|  |
+| ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
