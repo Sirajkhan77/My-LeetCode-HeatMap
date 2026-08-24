@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 ## String
 |  |
 | ------- |
