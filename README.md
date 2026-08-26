@@ -17,16 +17,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
@@ -35,5 +38,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
