@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3099-harshad-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3945-digit-frequency-score](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3945-digit-frequency-score](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3945-digit-frequency-score) |
 ## Stack
 |  |
 | ------- |
