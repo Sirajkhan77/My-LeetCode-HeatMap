@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2716-minimize-string-length](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3945-digit-frequency-score) |
 ## Stack
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3174-clear-digits](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3174-clear-digits) |
+## Counting
+|  |
+| ------- |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 <!---LeetCode Topics End-->
