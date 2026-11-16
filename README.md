@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3099-harshad-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Sirajkhan77/My-LeetCode-HeatMap/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
